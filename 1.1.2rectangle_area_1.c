@@ -2,9 +2,8 @@
 int main()
 {
     int len,bre;
-    printf("Enter the length of rectangle \n");
+    printf("Enter the length  and breadth of rectangle \n");
     scanf("%d",& len);
-    printf("Enter the breadth of rectangle \n");
     scanf("%d",& bre);
     printf("The area of rectangle is %d", len*bre);
     return 0;
