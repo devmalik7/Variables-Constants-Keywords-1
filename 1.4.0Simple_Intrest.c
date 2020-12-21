@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
     float p,r,t;
     printf("Enter Principl Ammount ");
