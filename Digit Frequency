@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-#include <math.h>
 #include <stdlib.h>
-int main() 
+void main() 
 {
     int a, b,t,t1,i;
     scanf("%d\n%d", &a, &b);
@@ -82,5 +81,4 @@ int main()
             }
         }
     }
-    return 0;
 }
