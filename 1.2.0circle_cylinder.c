@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
     int r;
     int h;
@@ -9,5 +9,4 @@ int main()
    
     scanf("%d\n",& r);
     printf("The volume of cylinder is %f", pi*r*r*h);
-    return 0;
 }
